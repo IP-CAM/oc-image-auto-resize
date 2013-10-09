@@ -2,7 +2,11 @@
 
 Remove whitespace on OpenCart thumbnail and get the best image result as on this [article at OpencartNews](http://www.opencartnews.com/tutorials/auto-type-opencart-image-resize/)
 
+Tutorial at OpencartNews above is intended as concept-tutorial, while this package purposely to automatically remove whitespace.
 
+**Download:** [All release](https://github.com/qahar/oc-image-auto-resize/releases)
+
+**Required:** [vQmod](https://code.google.com/p/vqmod/downloads/list) <br/>
 **Tested on:** 1.5.5.x and 1.5.6
 
 ### Installation ###
