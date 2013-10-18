@@ -7,9 +7,17 @@ Remove whitespace on OpenCart thumbnail and get the best image result as on this
 **Required:** [vQmod](https://code.google.com/p/vqmod/downloads/list) <br/>
 **Tested on:** 1.5.5.x and 1.5.6
 
+
 ### Installation ###
 1. Copy folder **vqmod/** inside the upload/ folder to your site.
 2. Clear your image cache **image/cache/data/**
+
+
+### Tips ###
+
+1. **Scale image from top center instead of vertical and horizontaly center.** <br/>
+Assume you use v.1.5.6, open system\library\image.php and comment line 93<br/>
+//$ypos = (int)(($height – $new_height) / 2);
 
 
 ### License ###
